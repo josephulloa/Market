@@ -44,3 +44,14 @@
     object-fit: cover;
     background: #fff;
   }
+
+
+  .underline{
+    color: white;
+    text-decoration: none;
+  }
+
+  .btn-container{
+    display: flex;
+    justify-content: space-around;
+  }
